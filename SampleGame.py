@@ -7,7 +7,7 @@ pygame.init()
 # Set up the drawing window
 screen = pygame.display.set_mode([500, 500])
 
-# Run until the user asks to quit change note - BM more changes
+# Run until the user asks to quit change note 
 running = True
 while running:
 
